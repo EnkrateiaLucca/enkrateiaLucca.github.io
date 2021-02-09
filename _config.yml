@@ -1,9 +1,9 @@
 title: Lucas Soares # your name (or website title) here
 logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  ML engineer and professionally curious
   <br><br>
-  Second description 
+  Trying really hard to write good code. 
   <br><br>
   <a href="https://www.linkedin.com/in/lucas-soares-969044167/">LinkedIn</a> 
 theme: jekyll-theme-minimal
