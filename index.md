@@ -4,8 +4,8 @@
 
 ### Academic
 
-[Applying GANs to analyse behavior](/pdf/Thesis_final_Version.pdf)
-<img src="/images/thesis.png?raw=true" style = "width: 0.25"/> </img>
+<img src="/images/thesis.png?raw=true" style = "width: 250"/> </img> [Applying GANs to analyse behavior](/pdf/Thesis_final_Version.pdf)
+
 
 ---
 
