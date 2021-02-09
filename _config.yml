@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Trying really hard to write good code. 
   <br><br>
   <a href="https://www.linkedin.com/in/lucas-soares-969044167/">LinkedIn</a> 
+  <br><br>
   <a href="https://github.com/EnkrateiaLucca">Github</a> 
   
 theme: jekyll-theme-minimal
