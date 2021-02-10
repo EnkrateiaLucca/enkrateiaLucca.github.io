@@ -1,3 +1,3 @@
-# Personal Portfolio Landing Page with github.io
+# Personal Portfolio Page
 
 https://enkrateialucca.github.io
