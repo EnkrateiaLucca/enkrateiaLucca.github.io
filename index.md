@@ -3,7 +3,7 @@
 [Master Thesis: Applying Generative Adversarial Networks to study behaviour.](/pdf/Thesis_final_Version.pdf)
 
 <span style="color: gray"> Feb 3, 2021 </span> 
-[Blog Posts](./blogPosts.md)
+[Blog Posts](/blog/blogPosts.md)
 
 
 ---
