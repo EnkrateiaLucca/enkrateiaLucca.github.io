@@ -29,19 +29,12 @@
     <ul>
     <li>
         <a href="https://github.com/EnkrateiaLucca">
-        <span class="icon github">
-            <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve"></svg>
-        </span>
-        <span class="username">enkrateialucca</span>
+        <img src="/images/githubLogo.png" width="200" height="200" > </img>
         </a>
     </li>
     <li>
         <a href="https://twitter.com/LucasEnkrateia">
-        <span class="icon twitter">
-            <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve"> </svg>
-        </span>
-        <span class="username">enkrateialucca</span>
+        <img src="/images/twitterLogo.png" width="200" height="200"> </img>
         </a>
     </li>
     </ul>
