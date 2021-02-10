@@ -1,6 +1,6 @@
 # Blog Posts
 <span style="color: gray">Feb 8, 2021</span>
-[Building A Random Bike Route Generator with Python](https://medium.com/me/stats/post/3b748e</span>
+[Building A Random Bike Route Generator with Python](https://medium.com/me/stats/post/3b748e)
 
 <span style="color: gray"> Feb 3, 2021 </span> 
 [In Defense of a Cognitive Medium](https://towardsdatascience.com/in-defense-of-a-cognitive-medium-9d6f91336625)
