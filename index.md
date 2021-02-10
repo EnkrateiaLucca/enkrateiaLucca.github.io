@@ -4,8 +4,7 @@
 
 ### Academic
 
-[Applying GANs to analyse behavior](/pdf/Thesis_final_Version.pdf)
-<img src="/images/thesis.png?raw=true" style = "width: 200; height: auto"/>
+[Master Thesis: Applying Generative Adversarial Networks to study behaviour.](/pdf/Thesis_final_Version.pdf)
 
 
 ---
